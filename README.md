@@ -1,6 +1,5 @@
 ## Olá eu me chamo Jonas David
 
-- 😁 E seja muito bem vindo ao meu perfil
 - ☕ Atualmente estudo programação voltado ao Back End
 
 <div>
