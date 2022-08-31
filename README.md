@@ -1,6 +1,6 @@
 ## Olá eu me chamo Jonas David
 
-- ☕ Atualmente estudo programação voltado ao Back End
+- ☕ Atualmente estudo programação Para Ciencia de Dados
 
 <div>
     <a href="https://github.com/JonasDavidTR">
