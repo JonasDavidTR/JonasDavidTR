@@ -4,9 +4,9 @@
 
 <div>
     <a href="https://github.com/JonasDavidTR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasDavidTR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasDavidTR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-  
+
 ## Tecnologias Que Uso
   
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
