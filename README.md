@@ -1,6 +1,6 @@
-## Olá eu me chamo Jonas David
+## Oi! me chamo Jonas David
 
-- ☕ Atualmente estudo programação Back End
+- ☕ Desenvolvedor Back End
 
 <div>
     <a href="https://github.com/JonasDavidTR">
