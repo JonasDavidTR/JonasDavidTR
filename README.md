@@ -1,5 +1,3 @@
-## Oi! me chamo Jonas David
-
 - ☕ Desenvolvedor Back End
 
 <div>
