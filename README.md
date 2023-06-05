@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://github.com/JonasDavidTR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?PAT_1=JonasDavidTR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?PAT_1=JonasDavidTR&username=JonasDavidTR&show_icons=true&theme=tokyonight"/>
 </div>
 
 ## Tecnologias Que Uso
