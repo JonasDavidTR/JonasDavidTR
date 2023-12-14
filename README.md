@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?PAT_1=JonasDavidTR&username=JonasDavidTR&show_icons=true&theme=tokyonight"/>
 </div>
   
-##Tecnologias
+## Tecnologias
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=mysql&logoColor=white)
