@@ -1,6 +1,7 @@
 ## ☕ Desenvolvedor Back End
 
 <div>
+    <style>color = #9A0000</style>
     <a href="https://github.com/JonasDavidTR">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?PAT_1=JonasDavidTR&username=JonasDavidTR&show_icons=true&theme=shadow_red"/>
 </div>
