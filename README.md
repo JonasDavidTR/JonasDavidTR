@@ -1,13 +1,11 @@
 ## ☕ Desenvolvedor Back End
-<style>
-    color: #9A0000;
-</style>
+<font color="#9A0000"></font>
 <div>
     <a href="https://github.com/JonasDavidTR">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?PAT_1=JonasDavidTR&username=JonasDavidTR&show_icons=true&theme=shadow_red"/>
 </div>
 
-## <font color="#9A0000">Tecnologias</font>
+## Tecnologias
 
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
