@@ -18,5 +18,6 @@
 ## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-david-5996a1229/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasdavidcosta@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasdavidcosta@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá%20Jonas%2C%0A%0AVi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20...)
+
 
