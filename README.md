@@ -1,4 +1,4 @@
-## ☕ Desenvolvedor Back End
+## 🛡️ Cybersecurity & Defensive Security
 <font color="#9A0000"></font>
 <!--
 <div>
@@ -7,14 +7,14 @@
 </div>
 -->
 ## Tecnologias
+🔹 Redes: TCP/IP, HTTP, DNS
 
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  
+🔹 Segurança: Wireshark, SIEM (Wazuh/Splunk básico), TryHackMe Labs
+
+🔹 Linguagens: Python, Java
+
+🔹 Outros: Regex, Linux, Shell Script
+
 ## Contatos
 
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/JonasDavidTR)
