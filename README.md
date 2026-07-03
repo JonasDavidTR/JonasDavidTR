@@ -1,4 +1,4 @@
-## 🛡️ Defensive Security
+##  Desenvolvedor
 <font color="#9A0000"></font>
 <!--
 <div>
@@ -9,11 +9,9 @@
 ## Tecnologias
 🔹 Redes: TCP/IP, HTTP, DNS
 
-🔹 Segurança: Wireshark, SIEM (Wazuh/Splunk básico), TryHackMe Labs
+🔹 Linguagens: Python, Java, C, Node
 
-🔹 Linguagens: Python, Java, C
-
-🔹 Outros: Linux, Shell Script
+🔹 Outros: Linux, Shell Script, API's
 
 ## Contatos
 
